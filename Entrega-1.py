@@ -225,7 +225,6 @@ def menu_juego():
         menu_humano()
     elif opcion == "2":
         print("MENU JUGADOR SINTÉTICO")
-        # Aquí puedes implementar un jugador automático en el futuro
     elif opcion == "3":
         print("Saliendo del juego.")
     else:
